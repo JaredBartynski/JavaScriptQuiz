@@ -1,0 +1,24 @@
+body {
+  width: 300px;
+  border: 40px solid blue;
+  padding: 50px;
+  margin: 50px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: yellowgreen;
+}
+
+.buttons {
+  display: grid;
+  margin: 15px;
+  gap: 10px;
+}
+
+.hide {
+  display: none;
+}
+
+#timer {
+  float: right;
+}
